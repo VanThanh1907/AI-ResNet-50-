@@ -13,20 +13,9 @@ This is an AI-based project that utilizes the ResNet-50 deep convolutional neura
 
 ✅ Visualizes model performance using confusion matrix and accuracy/loss curves
 
-🛠️ Technologies Used
-Python
-
-TensorFlow 
+🛠️ Technologies Used: Python,TensorFlow
 
 
-🚀 How to Run
-Clone the repository
-
-Install dependencies using pip install -r requirements.txt
-
-Train the model or load a pre-trained one
-
-Run main.py and test on custom images
 
 📈 Results
 The model achieved an accuracy of 93% on the validation dataset and was able to classify real-world images with high confidence.
